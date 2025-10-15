@@ -1,5 +1,7 @@
 ## 👋 It's me, Yi Kang
 
+Software Engineering student from Universiti of Malaya, Malaysia
+
 🎩 Programmer by day, idea hunter by night  
 🦄 I write code and collect quirky concepts like Pokémon   
 🚀 I’m always on the lookout for the next “aha!” moment  
